@@ -31,3 +31,20 @@
     transform: rotate(360deg);
   }
 }
+
+.my-container{
+  width: 30%;
+}
+
+.the-out-put{
+  height: 50px;
+  background-color: black;
+  border-radius: 10px;
+  color: gray;
+  text-align: right;
+  padding: 10px;
+}
+
+.the-col{
+  margin-top: 10px;
+}
